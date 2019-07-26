@@ -1,0 +1,3 @@
+Track = Backbone.Model.extend({
+
+});
